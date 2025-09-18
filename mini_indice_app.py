@@ -1,4 +1,4 @@
-Aqui está o código completo do sistema para monitoramento e geração automática de sinais do mini índice Bovespa com interface Streamlit. Basta copiar todo o código abaixo, salvar num arquivo chamado `mini_indice_app.py`, substituir `'SEU_TOKEN_AQUI'` pelo seu token da API IbovFinancials, e seguir o roteiro de instalação e execução no Windows que enviei anteriormente.
+
 
 ```python
 import streamlit as st
@@ -139,3 +139,4 @@ if __name__ == "__main__":
 
 
 Se precisar de qualquer ajuda para salvar esse arquivo, instalar o Python, Streamlit ou rodar o sistema, é só avisar!
+
