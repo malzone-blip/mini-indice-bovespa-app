@@ -7,7 +7,7 @@ import numpy as np
 from datetime import datetime, timedelta
 
 # Coloque aqui seu token da API IbovFinancials
-API_TOKEN = c3a8b4d370c70646c21099d5d3fdff13c533ed27  # Substitua pelo seu token real
+API_TOKEN = 'c3a8b4d370c70646c21099d5d3fdff13c533ed27'  # Substitua pelo seu token real
 BASE_URL = 'http://www.ibovfinancials.com/api/ibov'
 
 
@@ -132,6 +132,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
