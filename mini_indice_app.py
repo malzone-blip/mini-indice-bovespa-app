@@ -134,10 +134,11 @@ def main():
 if __name__ == "__main__":
     main()
 
-***
 
 
-Se precisar de qualquer ajuda para salvar esse arquivo, instalar o Python, Streamlit ou rodar o sistema, é só avisar!
+
+
+
 
 
 
