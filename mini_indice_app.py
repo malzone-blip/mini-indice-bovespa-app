@@ -1,6 +1,6 @@
 
 
-```python
+python
 import streamlit as st
 import requests
 import pandas as pd
@@ -139,4 +139,5 @@ if __name__ == "__main__":
 
 
 Se precisar de qualquer ajuda para salvar esse arquivo, instalar o Python, Streamlit ou rodar o sistema, é só avisar!
+
 
