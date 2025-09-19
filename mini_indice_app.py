@@ -142,7 +142,7 @@ def main():
         - A base histórica utilizada está sempre visível após a análise.
         """)
 
-    st.title("Monitoramento Alpha Vantage - Análise Técnica com Alertas")
+    st.title("Analise de Compra e Venda via Base Histórica - Análise Técnica com Alertas")
 
     symbol = st.text_input("Símbolo (ex: PETR4.SA)", "PETR4.SA")
 
@@ -168,3 +168,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
