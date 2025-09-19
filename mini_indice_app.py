@@ -146,7 +146,7 @@ def main():
         - Alertas automáticos são gerados para ajudar no timing de compra e venda.
         """)
 
-    st.title("Monitoramento Alpha Vantage - Análise Técnica com Alertas")
+    st.title("Indicação de Compra/Venda baseado em dados históricos - Análise Técnica com Alertas")
 
     symbol = st.text_input("Símbolo (ex: PETR4.SA)", "PETR4.SA")
 
@@ -172,3 +172,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
